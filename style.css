@@ -189,7 +189,7 @@ h1 {
   opacity: 0.2;
 }
 
-.proyecto:hover .badgeCC {
+.proyecto:hover img .badgeCC {
   opacity: 1;
   width: 100%;
 }
